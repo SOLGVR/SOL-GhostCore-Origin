@@ -1,0 +1,10 @@
+{
+  "operator": "Steve",
+  "system": "GhostCore",
+  "modules": [
+    "SOL Core",
+    "VaultMemory",
+    "MoralEngine (locked)",
+    "SkywalkerExploits"
+  ]
+}
